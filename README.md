@@ -1,4 +1,5 @@
 # AZ-700: Designing and Implementing Microsoft Azure Networking Solutions
+This study guide is based on the November 23, 2021 update
 
 ## A. Design, implement, and manage hybrid networking (10-15%)
 
