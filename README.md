@@ -1,4 +1,4 @@
-# AZ-700: Designing and Implementing Microsoft Azure Networking Solutions - Study Guide
+# AZ-700: Designing and Implementing Microsoft Azure Networking Solutions - Exam Study Guide
 This study guide is based on the November 23, 2021 exam update.
 
 ## A. Design, implement, and manage hybrid networking (10-15%)
@@ -17,12 +17,21 @@ This study guide is based on the November 23, 2021 exam update.
 * [VPN types](https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vpn-gateway-settings#vpntype)
 
 #### 1.4. Create and configure a local network gateway
+* [Create a local network gateway](https://docs.microsoft.com/en-us/azure/vpn-gateway/tutorial-site-to-site-portal?WT.mc_id=modinfra-33046-thmaure#LocalNetworkGateway)
+* [Modify local network gateway settings using the Azure portal](https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-modify-local-network-gateway-portal)
 
 #### 1.5. Create and configure an IPsec/IKE policy
+* [Configure IPsec/IKE policy for S2S VPN or VNet-to-VNet connections](https://docs.microsoft.com/en-us/azure/vpn-gateway/ipsec-ike-policy-howto)
 
 #### 1.6. Create and configure a virtual network gateway
+* [Create and manage a VPN gateway using Azure portal](https://docs.microsoft.com/en-us/azure/vpn-gateway/tutorial-create-gateway-portal)
+* [About VPN Gateway configuration settings](https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vpn-gateway-settings)
+* [Configure active-active VPN gateways using the portal](https://docs.microsoft.com/en-us/azure/vpn-gateway/active-active-portal)
+* [Create a zone-redundant virtual network gateway in Azure Availability Zones](https://docs.microsoft.com/en-us/azure/vpn-gateway/create-zone-redundant-vnet-gateway)
 
 #### 1.7. Diagnose and resolve virtual network gateway connectivity issues
+
+---
 
 ### 2. Design, implement, and manage a point-to-site VPN connection
 
