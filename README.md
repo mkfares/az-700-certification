@@ -42,13 +42,19 @@ This study guide is based on the November 23, 2021 exam update.
 
 ### 2. Design, implement, and manage a point-to-site VPN connection
 
-#### 2.1. select an appropriate virtual network gateway SKU
-#### 2.2. plan and configure RADIUS authentication
-#### 2.3. plan and configure certificate-based authentication
-#### 2.4. plan and configure OpenVPN authentication
-#### 2.5. plan and configure Azure Active Directory (Azure AD) authentication
-#### 2.6. implement a VPN client configuration file
-#### 2.7. diagnose and resolve client-side and authentication issues
+#### 2.1. Select an appropriate virtual network gateway SKU
+
+#### 2.2. Plan and configure RADIUS authentication
+
+#### 2.3. Plan and configure certificate-based authentication
+
+#### 2.4. Plan and configure OpenVPN authentication
+
+#### 2.5. Plan and configure Azure Active Directory (Azure AD) authentication
+
+#### 2.6. Implement a VPN client configuration file
+
+#### 2.7. Diagnose and resolve client-side and authentication issues
 
 ---
 
