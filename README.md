@@ -30,6 +30,8 @@ This study guide is based on the November 23, 2021 exam update.
 * [Create a zone-redundant virtual network gateway in Azure Availability Zones](https://docs.microsoft.com/en-us/azure/vpn-gateway/create-zone-redundant-vnet-gateway)
 
 #### 1.7. Diagnose and resolve virtual network gateway connectivity issues
+* [Monitoring VPN Gateway](https://docs.microsoft.com/en-us/azure/vpn-gateway/monitor-vpn-gateway)
+* [Troubleshoot VPN Gateway](https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-troubleshoot)
 
 ---
 
