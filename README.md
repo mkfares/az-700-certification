@@ -126,4 +126,63 @@ This study guide is based on the November 23, 2021 exam update
 
 ## D. Secure and monitor networks (15-20%)
 
+### 1. Design, implement, and manage an Azure Firewall deployment
+
+#### 1.1. design an Azure Firewall deployment
+#### 1.2. create and implement an Azure Firewall deployment
+#### 1.3. configure Azure Firewall rules
+#### 1.4. create and implement Azure Firewall Manager policies
+#### 1.5. create a secure hub by deploying Azure Firewall inside an Azure Virtual WAN hub
+#### 1.6. integrate an Azure Virtual WAN hub with a third-party NVA
+
+### 2. Implement and manage network security groups (NSGs)
+
+#### 2.1. create an NSG
+#### 2.2. associate an NSG to a resource
+#### 2.3. create an application security group (ASG)
+#### 2.4. associate an ASG to a NIC
+#### 2.5. create and configure NSG rules
+#### 2.6. interpret NSG flow logs
+#### 2.7. validate NSG flow rules
+#### 2.8. verify IP flow
+
+### 3. Implement a Web Application Firewall (WAF) deployment
+
+#### 3.1. configure detection or prevention mode
+#### 3.2. configure rule sets for Azure Front Door, including Microsoft managed and user defined
+#### 3.3. configure rule sets for Application Gateway, including Microsoft managed and user defined
+#### 3.4. implement a WAF policy
+#### 3.5. associate a WAF policy
+
+###  4. Monitor networks
+
+#### 4.1. configure network health alerts and logging by using Azure Monitor
+#### 4.2. create and configure a Connection Monitor instance
+#### 4.3. configure and use Traffic Analytics
+#### 4.4. configure NSG flow logs
+#### 4.5. enable and configure diagnostic logging
+#### 4.6. configure Azure Network Watcher
+
 ## E. Design and implement Private access to Azure Services (10-15%)
+
+###  1. Design and implement Azure Private Link service and Azure Private Endpoint
+
+#### 1.1. create a Private Link service
+#### 1.2. plan private endpoints
+#### 1.3. create private endpoints
+#### 1.4. configure access to private endpoints
+#### 1.5. integrate Private Link with DNS
+#### 1.6. integrate a Private Link service with on-premises clients
+
+### 2. Design and implement service endpoints
+
+#### 2.1. create service endpoints
+#### 2.2. configure service endpoint policies
+#### 2.3. configure service tags
+#### 2.4. configure access to service endpoints
+
+### 3. Configure VNet integration for dedicated platform as a service (PaaS) services
+
+#### 3.1. configure App Service for regional VNet integration
+#### 3.2. configure Azure Kubernetes Service (AKS) for regional VNet integration
+#### 3.3. configure clients to access App Service Environment
