@@ -14,6 +14,8 @@ This study guide is based on the November 23, 2021 exam update.
 * [Working with virtual network gateway SKUs (legacy SKUs)](https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-skus-legacy)
 
 #### 1.3. identify when to use policy-based VPN versus route-based VPN
+* [VPN types](https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vpn-gateway-settings#vpntype)
+
 #### 1.4. create and configure a local network gateway
 #### 1.5 create and configure an IPsec/IKE policy
 #### 1.6 create and configure a virtual network gateway
