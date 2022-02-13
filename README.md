@@ -7,6 +7,7 @@ This study guide is based on the November 23, 2021 exam update.
 
 #### 1.1. design a site-to-site VPN connection for high availability
           - [Highly Available cross-premises and VNet-to-VNet connectivity](https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-highlyavailable)
+          
           - [About zone-redundant virtual network gateways in Azure Availability Zones](https://docs.microsoft.com/en-us/azure/vpn-gateway/about-zone-redundant-vnet-gateways)
 
 #### 1.2. select an appropriate virtual network (VNet) gateway SKU
