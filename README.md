@@ -19,7 +19,7 @@ This study guide is based on the November 23, 2021 exam update.
 * [VPN types](https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vpn-gateway-settings#vpntype)
 
 #### 1.4. Create and configure a local network gateway
-* [Create a local network gateway](https://docs.microsoft.com/en-us/azure/vpn-gateway/tutorial-site-to-site-portal?WT.mc_id=modinfra-33046-thmaure#LocalNetworkGateway)
+* [Create a local network gateway](https://docs.microsoft.com/en-us/azure/vpn-gateway/tutorial-site-to-site-portal#LocalNetworkGateway)
 * [Modify local network gateway settings using the Azure portal](https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-modify-local-network-gateway-portal)
 
 #### 1.5. Create and configure an IPsec/IKE policy
