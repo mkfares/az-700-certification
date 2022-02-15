@@ -89,15 +89,34 @@ This study guide is based on the November 23, 2021 exam update.
 * [ExpressRoute FAQ - ExpressRoute Direct](https://docs.microsoft.com/en-us/azure/expressroute/expressroute-faqs#expressRouteDirect)
 
 #### 3.2. design and implement Azure cross-region connectivity between multiple ExpressRoute locations
-
+* [Cross-network connectivity](https://docs.microsoft.com/en-us/azure/expressroute/cross-network-connectivity)
 
 #### 3.3. select an appropriate ExpressRoute SKU and tier
+* [About ExpressRoute virtual network gateways](https://docs.microsoft.com/en-us/azure/expressroute/expressroute-about-virtual-network-gateways)
+* [ExpressRoute FAQ - ExpressRoute Local](https://docs.microsoft.com/en-us/azure/expressroute/expressroute-faqs#expressroute-local)
+* [ExpressRoute FAQ - ExpressRoute Premium](https://docs.microsoft.com/en-us/azure/expressroute/expressroute-faqs#expressroute-premium)
+
 #### 3.4. design and implement ExpressRoute Global Reach
+* [About ExpressRoute Global Reach](https://docs.microsoft.com/en-us/azure/expressroute/expressroute-global-reach)
+* [ExpressRoute FAQ - Global Reach](https://docs.microsoft.com/en-us/azure/expressroute/expressroute-faqs#globalreach)
+* [Configure ExpressRoute Global Reach using the Azure portal](https://docs.microsoft.com/en-us/azure/expressroute/expressroute-howto-set-global-reach-portal)
+
 #### 3.5. design and implement ExpressRoute FastPath
+* [About ExpressRoute FastPath](https://docs.microsoft.com/en-us/azure/expressroute/about-fastpath)
+* [Configure ExpressRoute FastPath](https://docs.microsoft.com/en-us/azure/expressroute/expressroute-howto-linkvnet-portal-resource-manager#configure-expressroute-fastpath)
+
 #### 3.6. choose between private peering only, Microsoft peering only, or both
+* [ExpressRoute circuits and peering](https://docs.microsoft.com/en-us/azure/expressroute/expressroute-circuit-peerings)
+
 #### 3.7. configure private peering
+* [Create and modify peering for an ExpressRoute circuit using the Azure portal - Private peering](https://docs.microsoft.com/en-us/azure/expressroute/expressroute-howto-routing-portal-resource-manager#private)
+
 #### 3.8. configure Microsoft peering
+* [Create and modify peering for an ExpressRoute circuit using the Azure portal - Microsoft peering](https://docs.microsoft.com/en-us/azure/expressroute/expressroute-howto-routing-portal-resource-manager#msft)
+
 #### 3.9. create and configure an ExpressRoute gateway
+
+
 #### 3.10. connect a virtual network to an ExpressRoute circuit
 #### 3.11. recommend a route advertisement configuration
 #### 3.12. configure encryption over ExpressRoute
