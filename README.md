@@ -80,9 +80,17 @@ This study guide is based on the November 23, 2021 exam update.
 ---
 
 ### 3. Design, implement, and manage Azure ExpressRoute
+* [What is Azure ExpressRoute?](https://docs.microsoft.com/en-us/azure/expressroute/expressroute-introduction)
+* [ExpressRoute FAQ - What is ExpressRoute?](https://docs.microsoft.com/en-us/azure/expressroute/expressroute-faqs#what-is-expressroute)
 
 #### 3.1. choose between provider and direct model (ExpressRoute Direct)
+* [About ExpressRoute Direct](https://docs.microsoft.com/en-us/azure/expressroute/expressroute-erdirect-about)
+* [ExpressRoute connectivity models](https://docs.microsoft.com/en-us/azure/expressroute/expressroute-connectivity-models)
+* [ExpressRoute FAQ - ExpressRoute Direct](https://docs.microsoft.com/en-us/azure/expressroute/expressroute-faqs#expressRouteDirect)
+
 #### 3.2. design and implement Azure cross-region connectivity between multiple ExpressRoute locations
+
+
 #### 3.3. select an appropriate ExpressRoute SKU and tier
 #### 3.4. design and implement ExpressRoute Global Reach
 #### 3.5. design and implement ExpressRoute FastPath
