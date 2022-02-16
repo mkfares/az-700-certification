@@ -83,45 +83,61 @@ This study guide is based on the November 23, 2021 exam update.
 * [What is Azure ExpressRoute?](https://docs.microsoft.com/en-us/azure/expressroute/expressroute-introduction)
 * [ExpressRoute FAQ - What is ExpressRoute?](https://docs.microsoft.com/en-us/azure/expressroute/expressroute-faqs#what-is-expressroute)
 
-#### 3.1. choose between provider and direct model (ExpressRoute Direct)
+#### 3.1. Choose between provider and direct model (ExpressRoute Direct)
 * [About ExpressRoute Direct](https://docs.microsoft.com/en-us/azure/expressroute/expressroute-erdirect-about)
 * [ExpressRoute connectivity models](https://docs.microsoft.com/en-us/azure/expressroute/expressroute-connectivity-models)
 * [ExpressRoute FAQ - ExpressRoute Direct](https://docs.microsoft.com/en-us/azure/expressroute/expressroute-faqs#expressRouteDirect)
 
-#### 3.2. design and implement Azure cross-region connectivity between multiple ExpressRoute locations
+#### 3.2. Design and implement Azure cross-region connectivity between multiple ExpressRoute locations
 * [Cross-network connectivity](https://docs.microsoft.com/en-us/azure/expressroute/cross-network-connectivity)
 
-#### 3.3. select an appropriate ExpressRoute SKU and tier
+#### 3.3. Select an appropriate ExpressRoute SKU and tier
 * [About ExpressRoute virtual network gateways](https://docs.microsoft.com/en-us/azure/expressroute/expressroute-about-virtual-network-gateways)
 * [ExpressRoute FAQ - ExpressRoute Local](https://docs.microsoft.com/en-us/azure/expressroute/expressroute-faqs#expressroute-local)
 * [ExpressRoute FAQ - ExpressRoute Premium](https://docs.microsoft.com/en-us/azure/expressroute/expressroute-faqs#expressroute-premium)
 
-#### 3.4. design and implement ExpressRoute Global Reach
+#### 3.4. Design and implement ExpressRoute Global Reach
 * [About ExpressRoute Global Reach](https://docs.microsoft.com/en-us/azure/expressroute/expressroute-global-reach)
 * [ExpressRoute FAQ - Global Reach](https://docs.microsoft.com/en-us/azure/expressroute/expressroute-faqs#globalreach)
 * [Configure ExpressRoute Global Reach using the Azure portal](https://docs.microsoft.com/en-us/azure/expressroute/expressroute-howto-set-global-reach-portal)
 
-#### 3.5. design and implement ExpressRoute FastPath
+#### 3.5. Design and implement ExpressRoute FastPath
 * [About ExpressRoute FastPath](https://docs.microsoft.com/en-us/azure/expressroute/about-fastpath)
 * [Configure ExpressRoute FastPath](https://docs.microsoft.com/en-us/azure/expressroute/expressroute-howto-linkvnet-portal-resource-manager#configure-expressroute-fastpath)
 
-#### 3.6. choose between private peering only, Microsoft peering only, or both
+#### 3.6. Choose between private peering only, Microsoft peering only, or both
 * [ExpressRoute circuits and peering](https://docs.microsoft.com/en-us/azure/expressroute/expressroute-circuit-peerings)
 
-#### 3.7. configure private peering
+#### 3.7. Configure private peering
 * [Create and modify peering for an ExpressRoute circuit using the Azure portal - Private peering](https://docs.microsoft.com/en-us/azure/expressroute/expressroute-howto-routing-portal-resource-manager#private)
 
-#### 3.8. configure Microsoft peering
+#### 3.8. Configure Microsoft peering
 * [Create and modify peering for an ExpressRoute circuit using the Azure portal - Microsoft peering](https://docs.microsoft.com/en-us/azure/expressroute/expressroute-howto-routing-portal-resource-manager#msft)
 
-#### 3.9. create and configure an ExpressRoute gateway
+#### 3.9. Create and configure an ExpressRoute gateway
+* [About ExpressRoute virtual network gateways](https://docs.microsoft.com/en-us/azure/expressroute/expressroute-about-virtual-network-gateways)
+* [Configure a virtual network gateway for ExpressRoute using the Azure portal](https://docs.microsoft.com/en-us/azure/expressroute/expressroute-howto-add-gateway-portal-resource-manager)
 
+#### 3.10. Connect a virtual network to an ExpressRoute circuit
+* [Connect a virtual network to an ExpressRoute circuit using the portal](https://docs.microsoft.com/en-us/azure/expressroute/expressroute-howto-linkvnet-portal-resource-manager)
 
-#### 3.10. connect a virtual network to an ExpressRoute circuit
-#### 3.11. recommend a route advertisement configuration
-#### 3.12. configure encryption over ExpressRoute
-#### 3.13. implement Bidirectional Forwarding Detection
-#### 3.14. diagnose and resolve ExpressRoute connection issues
+#### 3.11. Recommend a route advertisement configuration
+* [ExpressRoute routing requirements](https://docs.microsoft.com/en-us/azure/expressroute/expressroute-routing)
+
+#### 3.12. Configure encryption over ExpressRoute
+* [About ExpressRoute encryption](https://docs.microsoft.com/en-us/azure/expressroute/expressroute-about-encryption)
+* [Configure MACsec on ExpressRoute Direct ports](https://docs.microsoft.com/en-us/azure/expressroute/expressroute-howto-macsec)
+* [ExpressRoute encryption: IPsec over ExpressRoute for Virtual WAN](https://docs.microsoft.com/en-us/azure/virtual-wan/vpn-over-expressroute)
+* [Configure a site-to-site VPN over ExpressRoute Microsoft peering](https://docs.microsoft.com/en-us/azure/expressroute/site-to-site-vpn-over-microsoft-peering)
+* [Configure a Site-to-Site VPN connection over ExpressRoute private peering](https://docs.microsoft.com/en-us/azure/vpn-gateway/site-to-site-vpn-private-peering)
+
+#### 3.13. Implement Bidirectional Forwarding Detection
+* [Configure BFD over ExpressRoute](https://docs.microsoft.com/en-us/azure/expressroute/expressroute-bfd)
+
+#### 3.14. Diagnose and resolve ExpressRoute connection issues
+* [Verifying ExpressRoute connectivity](https://docs.microsoft.com/en-us/azure/expressroute/expressroute-troubleshooting-expressroute-overview)
+* [Troubleshooting network performance](https://docs.microsoft.com/en-us/azure/expressroute/expressroute-troubleshooting-network-performance)
+* [Reset a failed ExpressRoute circuit](https://docs.microsoft.com/en-us/azure/expressroute/reset-circuit)
 
 ---
 
