@@ -171,7 +171,14 @@ This study guide is based on the November 23, 2021 exam update.
 ### 2. Design and implement name resolution
 
 #### 2.1. design public DNS zones
+* [What is Azure DNS?](https://docs.microsoft.com/en-us/azure/dns/dns-overview)
+* [Overview of DNS zones and records](https://docs.microsoft.com/en-us/azure/dns/dns-zones-records)
+* [Public DNS FAQ](https://docs.microsoft.com/en-us/azure/dns/dns-faq)
+
 #### 2.2. design private DNS zones
+* [What is Azure Private DNS?](https://docs.microsoft.com/en-us/azure/dns/private-dns-overview)
+* [Azure Private DNS FAQ](https://docs.microsoft.com/en-us/azure/dns/dns-faq-private)
+
 #### 2.3. design name resolution inside a VNet
 #### 2.4. configure a public or private DNS zone
 #### 2.5 link a private DNS zone to a VNet
