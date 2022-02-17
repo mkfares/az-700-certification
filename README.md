@@ -180,8 +180,15 @@ This study guide is based on the November 23, 2021 exam update.
 * [Azure Private DNS FAQ](https://docs.microsoft.com/en-us/azure/dns/dns-faq-private)
 
 #### 2.3. design name resolution inside a VNet
+* [Name resolution for resources in Azure virtual networks](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-name-resolution-for-vms-and-role-instances)
+
 #### 2.4. configure a public or private DNS zone
+* [Create an Azure DNS zone and record using the Azure portal](https://docs.microsoft.com/en-us/azure/dns/dns-getstarted-portal)
+* [Create an Azure private DNS zone using the Azure portal](https://docs.microsoft.com/en-us/azure/dns/private-dns-getstarted-portal)
+
 #### 2.5 link a private DNS zone to a VNet
+* [What is a virtual network link?](https://docs.microsoft.com/en-us/azure/dns/private-dns-virtual-network-links)
+* [What is the auto registration feature in Azure DNS private zones?](https://docs.microsoft.com/en-us/azure/dns/private-dns-autoregistration)
 
 ---
 
