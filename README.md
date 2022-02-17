@@ -1,5 +1,5 @@
 # AZ-700: Designing and Implementing Microsoft Azure Networking Solutions - Exam Study Guide
-This study guide is based on the November 23, 2021 exam update.
+This exam study guide is based on the update of November 23, 2021.
 
 ---
 
@@ -213,7 +213,12 @@ This study guide is based on the November 23, 2021 exam update.
 ### 4. Design and implement an Azure Virtual WAN architecture
 
 #### 4.1. Design an Azure Virtual WAN architecture, including selecting types and services
+* [What is Azure Virtual WAN?](https://docs.microsoft.com/en-us/azure/virtual-wan/virtual-wan-about)
+* [Migrate to Azure Virtual WAN](https://docs.microsoft.com/en-us/azure/virtual-wan/migrate-from-hub-spoke-topology)
+
 #### 4.2. Connect a VNet gateway to Azure Virtual WAN
+
+
 #### 4.3. Create a hub in Virtual WAN
 #### 4.4. Create a network virtual appliance (NVA) in a virtual hub
 #### 4.5. Configure virtual hub routing
