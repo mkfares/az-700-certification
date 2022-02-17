@@ -195,8 +195,18 @@ This study guide is based on the November 23, 2021 exam update.
 ### 3. Design and implement cross-VNet connectivity
 
 #### 3.1. Design service chaining, including gateway transit
+* [Virtual network peering](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-peering-overview)
+* [Hub-spoke network topology in Azure](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/hybrid-networking/hub-spoke)
+* [Configure VPN gateway transit for virtual network peering](https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-peering-gateway-transit)
+
 #### 3.2. Design VPN connectivity between VNets
+* [Configure a VNet-to-VNet VPN gateway connection by using the Azure portal](https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-howto-vnet-vnet-resource-manager-portal)
+
 #### 3.3. Implement VNet peering
+* [Connect virtual networks with virtual network peering using the Azure portal](https://docs.microsoft.com/en-us/azure/virtual-network/tutorial-connect-virtual-networks-portal)
+* [Create, change, or delete a virtual network peering](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-manage-peering)
+* [Connect virtual networks with virtual network peering using PowerShell](https://docs.microsoft.com/en-us/azure/virtual-network/tutorial-connect-virtual-networks-powershell)
+* [Create a virtual network peering - Resource Manager, different subscriptions and Azure Active Directory tenants](https://docs.microsoft.com/en-us/azure/virtual-network/create-peering-different-subscriptions)
 
 ---
 
