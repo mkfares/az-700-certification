@@ -146,23 +146,23 @@ This study guide is based on the November 23, 2021 exam update.
 ### 1. Design and implement private IP addressing for VNets
 * [What is Azure Virtual Network?](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-overview)
 
-#### 1.1. create a VNet
+#### 1.1. Create a VNet
 * [Azure Virtual Network concepts and best practices](https://docs.microsoft.com/en-us/azure/virtual-network/concepts-and-best-practices)
 * [Create a virtual network using the Azure portal](https://docs.microsoft.com/en-us/azure/virtual-network/quick-create-portal)
 * [Create, change, or delete a virtual network](https://docs.microsoft.com/en-us/azure/virtual-network/manage-virtual-network)
 * [Azure Virtual Network FAQ - Configuration](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-faq#configuration)
 
-#### 1.2. plan and configure subnetting for services, including VNet gateways, private endpoints, firewalls, application gateways, and VNet-integrated platform services
+#### 1.2. Plan and configure subnetting for services, including VNet gateways, private endpoints, firewalls, application gateways, and VNet-integrated platform services
 * [Azure networking services overview](https://docs.microsoft.com/en-us/azure/networking/fundamentals/networking-overview)
 * [Add, change, or delete a virtual network subnet](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-manage-subnet)
 * [Services that can be deployed into a virtual network](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-for-azure-services#services-that-can-be-deployed-into-a-virtual-network)
 * [Azure Virtual Network FAQ](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-faq)
 
-#### 1.3. plan and configure subnet delegation
+#### 1.3. Plan and configure subnet delegation
 * [What is subnet delegation?](https://docs.microsoft.com/en-us/azure/virtual-network/subnet-delegation-overview)
 * [Add or remove a subnet delegation](https://docs.microsoft.com/en-us/azure/virtual-network/manage-subnet-delegation)
 
-#### 1.4. plan and configure subnetting for Azure Route Server
+#### 1.4. Plan and configure subnetting for Azure Route Server
 * [What is Azure Route Server?](https://docs.microsoft.com/en-us/azure/route-server/overview)
 * [Create and configure Route Server using the Azure portal](https://docs.microsoft.com/en-us/azure/route-server/quickstart-configure-route-server-portal)
 
@@ -170,23 +170,23 @@ This study guide is based on the November 23, 2021 exam update.
 
 ### 2. Design and implement name resolution
 
-#### 2.1. design public DNS zones
+#### 2.1. Design public DNS zones
 * [What is Azure DNS?](https://docs.microsoft.com/en-us/azure/dns/dns-overview)
 * [Overview of DNS zones and records](https://docs.microsoft.com/en-us/azure/dns/dns-zones-records)
 * [Public DNS FAQ](https://docs.microsoft.com/en-us/azure/dns/dns-faq)
 
-#### 2.2. design private DNS zones
+#### 2.2. Design private DNS zones
 * [What is Azure Private DNS?](https://docs.microsoft.com/en-us/azure/dns/private-dns-overview)
 * [Azure Private DNS FAQ](https://docs.microsoft.com/en-us/azure/dns/dns-faq-private)
 
-#### 2.3. design name resolution inside a VNet
+#### 2.3. Design name resolution inside a VNet
 * [Name resolution for resources in Azure virtual networks](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-name-resolution-for-vms-and-role-instances)
 
-#### 2.4. configure a public or private DNS zone
+#### 2.4. Configure a public or private DNS zone
 * [Create an Azure DNS zone and record using the Azure portal](https://docs.microsoft.com/en-us/azure/dns/dns-getstarted-portal)
 * [Create an Azure private DNS zone using the Azure portal](https://docs.microsoft.com/en-us/azure/dns/private-dns-getstarted-portal)
 
-#### 2.5 link a private DNS zone to a VNet
+#### 2.5 Link a private DNS zone to a VNet
 * [What is a virtual network link?](https://docs.microsoft.com/en-us/azure/dns/private-dns-virtual-network-links)
 * [What is the auto registration feature in Azure DNS private zones?](https://docs.microsoft.com/en-us/azure/dns/private-dns-autoregistration)
 
@@ -194,20 +194,20 @@ This study guide is based on the November 23, 2021 exam update.
 
 ### 3. Design and implement cross-VNet connectivity
 
-#### 3.1. design service chaining, including gateway transit
-#### 3.2. design VPN connectivity between VNets
-#### 3.3. implement VNet peering
+#### 3.1. Design service chaining, including gateway transit
+#### 3.2. Design VPN connectivity between VNets
+#### 3.3. Implement VNet peering
 
 ---
 
 ### 4. Design and implement an Azure Virtual WAN architecture
 
-#### 4.1. design an Azure Virtual WAN architecture, including selecting types and services
-#### 4.2. connect a VNet gateway to Azure Virtual WAN
-#### 4.3. create a hub in Virtual WAN
-#### 4.4. create a network virtual appliance (NVA) in a virtual hub
-#### 4.5. configure virtual hub routing
-#### 4.6 create a connection unit
+#### 4.1. Design an Azure Virtual WAN architecture, including selecting types and services
+#### 4.2. Connect a VNet gateway to Azure Virtual WAN
+#### 4.3. Create a hub in Virtual WAN
+#### 4.4. Create a network virtual appliance (NVA) in a virtual hub
+#### 4.5. Configure virtual hub routing
+#### 4.6 Create a connection unit
 
 ---
 
@@ -215,63 +215,63 @@ This study guide is based on the November 23, 2021 exam update.
 
 ### 1. Design, implement, and manage VNet routing
 
-#### 1.1. design and implement user-defined routes (UDRs)
-#### 1.2. associate a route table with a subnet
-#### 1.3. configure forced tunneling
-#### 1.4. diagnose and resolve routing issues
-#### 1.5. design and implement Azure Route Server
+#### 1.1. Design and implement user-defined routes (UDRs)
+#### 1.2. Associate a route table with a subnet
+#### 1.3. Configure forced tunneling
+#### 1.4. Diagnose and resolve routing issues
+#### 1.5. Design and implement Azure Route Server
 
 ---
 
 ### 2. Design and implement an Azure Load Balancer
 
-#### 2.1. choose an Azure Load Balancer SKU (Basic versus Standard)
-#### 2.2. choose between public and internal
-#### 2.3. create and configure an Azure Load Balancer (including cross-region)
-#### 2.4. implement a load balancing rule
-#### 2.5. create and configure inbound NAT rules
-#### 2.6. create explicit outbound rules for a load balancer
+#### 2.1. Choose an Azure Load Balancer SKU (Basic versus Standard)
+#### 2.2. Choose between public and internal
+#### 2.3. Create and configure an Azure Load Balancer (including cross-region)
+#### 2.4. Implement a load balancing rule
+#### 2.5. Create and configure inbound NAT rules
+#### 2.6. Create explicit outbound rules for a load balancer
 
 ---
 
 ### 3. Design and implement Azure Application Gateway
 
-#### 3.1. recommend Azure Application Gateway deployment options
-#### 3.2. choose between manual and autoscale
-#### 3.3. create a back-end pool
-#### 3.4. configure health probes
-#### 3.5. configure listeners
-#### 3.6. configure routing rules
-#### 3.7. configure HTTP settings
-#### 3.8. configure Transport Layer Security (TLS)
-#### 3.9. configure rewrite sets
+#### 3.1. Recommend Azure Application Gateway deployment options
+#### 3.2. Choose between manual and autoscale
+#### 3.3. Create a back-end pool
+#### 3.4. Configure health probes
+#### 3.5. Configure listeners
+#### 3.6. Configure routing rules
+#### 3.7. Configure HTTP settings
+#### 3.8. Configure Transport Layer Security (TLS)
+#### 3.9. Configure rewrite sets
 
 ---
 
 ### 4. Implement Azure Front Door
 
-#### 4.1. choose an Azure Front Door SKU
-#### 4.2. configure health probes, including customization of HTTP response codes
-#### 4.3. configure SSL termination and end-to-end SSL encryption
-#### 4.4. configure multisite listeners
-#### 4.5. configure back-end targets
-#### 4.6. configure routing rules, including redirection rules
+#### 4.1. Choose an Azure Front Door SKU
+#### 4.2. Configure health probes, including customization of HTTP response codes
+#### 4.3. Configure SSL termination and end-to-end SSL encryption
+#### 4.4. Configure multisite listeners
+#### 4.5. Configure back-end targets
+#### 4.6. Configure routing rules, including redirection rules
 
 ---
 
 ### 5. Implement an Azure Traffic Manager profile
 
-#### 5.1. configure a routing method (mode)
-#### 5.2. configure endpoints
-#### 5.3. create HTTP settings
+#### 5.1. Configure a routing method (mode)
+#### 5.2. Configure endpoints
+#### 5.3. Create HTTP settings
 
 ---
 
 ### 6. Design and implement an Azure Virtual Network NAT
 
-#### 6.1. choose when to use a Virtual Network NAT
-#### 6.2. allocate public IP or public IP prefixes for a NAT gateway
-#### 6.3. associate a Virtual Network NAT with a subnet
+#### 6.1. Choose when to use a Virtual Network NAT
+#### 6.2. Allocate public IP or public IP prefixes for a NAT gateway
+#### 6.3. Associate a Virtual Network NAT with a subnet
 
 ---
 
@@ -279,46 +279,46 @@ This study guide is based on the November 23, 2021 exam update.
 
 ### 1. Design, implement, and manage an Azure Firewall deployment
 
-#### 1.1. design an Azure Firewall deployment
-#### 1.2. create and implement an Azure Firewall deployment
-#### 1.3. configure Azure Firewall rules
-#### 1.4. create and implement Azure Firewall Manager policies
-#### 1.5. create a secure hub by deploying Azure Firewall inside an Azure Virtual WAN hub
-#### 1.6. integrate an Azure Virtual WAN hub with a third-party NVA
+#### 1.1. Design an Azure Firewall deployment
+#### 1.2. Create and implement an Azure Firewall deployment
+#### 1.3. Configure Azure Firewall rules
+#### 1.4. Create and implement Azure Firewall Manager policies
+#### 1.5. Create a secure hub by deploying Azure Firewall inside an Azure Virtual WAN hub
+#### 1.6. Integrate an Azure Virtual WAN hub with a third-party NVA
 
 ---
 
 ### 2. Implement and manage network security groups (NSGs)
 
-#### 2.1. create an NSG
-#### 2.2. associate an NSG to a resource
-#### 2.3. create an application security group (ASG)
-#### 2.4. associate an ASG to a NIC
-#### 2.5. create and configure NSG rules
-#### 2.6. interpret NSG flow logs
-#### 2.7. validate NSG flow rules
-#### 2.8. verify IP flow
+#### 2.1. Create an NSG
+#### 2.2. Associate an NSG to a resource
+#### 2.3. Create an application security group (ASG)
+#### 2.4. Associate an ASG to a NIC
+#### 2.5. Create and configure NSG rules
+#### 2.6. Interpret NSG flow logs
+#### 2.7. Validate NSG flow rules
+#### 2.8. Verify IP flow
 
 ---
 
 ### 3. Implement a Web Application Firewall (WAF) deployment
 
-#### 3.1. configure detection or prevention mode
-#### 3.2. configure rule sets for Azure Front Door, including Microsoft managed and user defined
-#### 3.3. configure rule sets for Application Gateway, including Microsoft managed and user defined
-#### 3.4. implement a WAF policy
-#### 3.5. associate a WAF policy
+#### 3.1. Configure detection or prevention mode
+#### 3.2. Configure rule sets for Azure Front Door, including Microsoft managed and user defined
+#### 3.3. Configure rule sets for Application Gateway, including Microsoft managed and user defined
+#### 3.4. Implement a WAF policy
+#### 3.5. Associate a WAF policy
 
 ---
 
 ###  4. Monitor networks
 
-#### 4.1. configure network health alerts and logging by using Azure Monitor
-#### 4.2. create and configure a Connection Monitor instance
-#### 4.3. configure and use Traffic Analytics
-#### 4.4. configure NSG flow logs
-#### 4.5. enable and configure diagnostic logging
-#### 4.6. configure Azure Network Watcher
+#### 4.1. Configure network health alerts and logging by using Azure Monitor
+#### 4.2. Create and configure a Connection Monitor instance
+#### 4.3. Configure and use Traffic Analytics
+#### 4.4. Configure NSG flow logs
+#### 4.5. Enable and configure diagnostic logging
+#### 4.6. Configure Azure Network Watcher
 
 ---
 
@@ -326,26 +326,26 @@ This study guide is based on the November 23, 2021 exam update.
 
 ###  1. Design and implement Azure Private Link service and Azure Private Endpoint
 
-#### 1.1. create a Private Link service
-#### 1.2. plan private endpoints
-#### 1.3. create private endpoints
-#### 1.4. configure access to private endpoints
-#### 1.5. integrate Private Link with DNS
-#### 1.6. integrate a Private Link service with on-premises clients
+#### 1.1. Create a Private Link service
+#### 1.2. Plan private endpoints
+#### 1.3. Create private endpoints
+#### 1.4. Configure access to private endpoints
+#### 1.5. Integrate Private Link with DNS
+#### 1.6. Integrate a Private Link service with on-premises clients
 
 ---
 
 ### 2. Design and implement service endpoints
 
-#### 2.1. create service endpoints
-#### 2.2. configure service endpoint policies
-#### 2.3. configure service tags
-#### 2.4. configure access to service endpoints
+#### 2.1. Create service endpoints
+#### 2.2. Configure service endpoint policies
+#### 2.3. Configure service tags
+#### 2.4. Configure access to service endpoints
 
 ---
 
 ### 3. Configure VNet integration for dedicated platform as a service (PaaS) services
 
-#### 3.1. configure App Service for regional VNet integration
-#### 3.2. configure Azure Kubernetes Service (AKS) for regional VNet integration
-#### 3.3. configure clients to access App Service Environment
+#### 3.1. Configure App Service for regional VNet integration
+#### 3.2. Configure Azure Kubernetes Service (AKS) for regional VNet integration
+#### 3.3. Configure clients to access App Service Environment
