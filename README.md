@@ -217,12 +217,26 @@ This exam study guide is based on the update of November 23, 2021.
 * [Migrate to Azure Virtual WAN](https://docs.microsoft.com/en-us/azure/virtual-wan/migrate-from-hub-spoke-topology)
 
 #### 4.2. Connect a VNet gateway to Azure Virtual WAN
-
+* [Connect a VPN Gateway (virtual network gateway) to Virtual WAN](https://docs.microsoft.com/en-us/azure/virtual-wan/connect-virtual-network-gateway-vwan)
 
 #### 4.3. Create a hub in Virtual WAN
+* [Create a virtual hub (site-to-site)](https://docs.microsoft.com/en-us/azure/virtual-wan/virtual-wan-site-to-site-portal#hub)
+* [Configure hub settings (point-to-site)](https://docs.microsoft.com/en-us/azure/virtual-wan/virtual-wan-point-to-site-portal#hub)
+* [Configure hub settings (ExpressRoute)](https://docs.microsoft.com/en-us/azure/virtual-wan/virtual-wan-expressroute-portal#hub)
+
 #### 4.4. Create a network virtual appliance (NVA) in a virtual hub
+* [Network Virtual Appliances in the Virtual WAN hub](https://docs.microsoft.com/en-us/azure/virtual-wan/about-nva-hub)
+* [How to create a Network Virtual Appliance in an Azure Virtual WAN hub](https://docs.microsoft.com/en-us/azure/virtual-wan/how-to-nva-hub)
+
 #### 4.5. Configure virtual hub routing
+* [About virtual hub routing](https://docs.microsoft.com/en-us/azure/virtual-wan/about-virtual-hub-routing)
+* [How to configure virtual hub routing](https://docs.microsoft.com/en-us/azure/virtual-wan/how-to-virtual-hub-routing)
+
 #### 4.6 Create a connection unit
+* [What is a connection unit?](https://docs.microsoft.com/en-us/azure/virtual-wan/pricing-concepts#connection-unit)
+* [What are Virtual WAN gateway scale units?](https://docs.microsoft.com/en-us/azure/virtual-wan/virtual-wan-faq?WT.mc_id=modinfra-33046-thmaure#what-are-virtual-wan-gateway-scale-units)
+* [ExpressRoute scale units](https://docs.microsoft.com/en-us/azure/virtual-wan/virtual-wan-expressroute-portal#hub)
+* [For User VPN (Point-to-site)- how many clients are supported?](https://docs.microsoft.com/en-us/azure/virtual-wan/virtual-wan-faq#for-user-vpn-point-to-site--how-many-clients-are-supported)
 
 ---
 
