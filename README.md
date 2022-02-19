@@ -245,10 +245,25 @@ This exam study guide is based on the update of November 23, 2021.
 ### 1. Design, implement, and manage VNet routing
 
 #### 1.1. Design and implement user-defined routes (UDRs)
+* [Virtual network traffic routing](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-udr-overview)
+* [Route network traffic with a route table using the Azure portal](https://docs.microsoft.com/en-us/azure/virtual-network/tutorial-create-route-table-portal)
+* [Create, change, or delete a route table](https://docs.microsoft.com/en-us/azure/virtual-network/manage-route-table)
+
 #### 1.2. Associate a route table with a subnet
+* [Associate a route table to a subnet](https://docs.microsoft.com/en-us/azure/virtual-network/tutorial-create-route-table-portal#associate-a-route-table-to-a-subnet)
+
 #### 1.3. Configure forced tunneling
+* [Configure forced tunneling](https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-forced-tunneling-rm)
+* [Azure Firewall forced tunneling](https://docs.microsoft.com/en-us/azure/firewall/forced-tunneling)
+
 #### 1.4. Diagnose and resolve routing issues
+* [Diagnose a virtual machine routing problem](https://docs.microsoft.com/en-us/azure/virtual-network/diagnose-network-routing-problem)
+* [Diagnose a virtual machine network routing problem using the Azure portal](https://docs.microsoft.com/en-us/azure/network-watcher/diagnose-vm-network-routing-problem)
+
 #### 1.5. Design and implement Azure Route Server
+* [What is Azure Route Server?](https://docs.microsoft.com/en-us/azure/route-server/overview)
+* [Create and configure Route Server using the Azure portal](https://docs.microsoft.com/en-us/azure/route-server/quickstart-configure-route-server-portal)
+* [Azure Route Server FAQ](https://docs.microsoft.com/en-us/azure/route-server/route-server-faq)
 
 ---
 
