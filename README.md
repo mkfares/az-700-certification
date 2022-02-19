@@ -405,8 +405,21 @@ This exam study guide is based on the update of November 23, 2021.
 ### 6. Design and implement an Azure Virtual Network NAT
 
 #### 6.1. Choose when to use a Virtual Network NAT
+* [What is Virtual Network NAT?](https://docs.microsoft.com/en-us/azure/virtual-network/nat-gateway/nat-overview)
+* [Design virtual networks with NAT gateway](https://docs.microsoft.com/en-us/azure/virtual-network/nat-gateway/nat-gateway-resource)
+
 #### 6.2. Allocate public IP or public IP prefixes for a NAT gateway
+* [Manage a public IP address with a NAT gateway](https://docs.microsoft.com/en-us/azure/virtual-network/ip-services/configure-public-ip-nat-gateway)
+* [Public IP addresses](https://docs.microsoft.com/en-us/azure/virtual-network/ip-services/public-ip-addresses)
+* [Create a public IP address using the Azure portal](https://docs.microsoft.com/en-us/azure/virtual-network/ip-services/create-public-ip-portal)
+* [Public IP address prefix](https://docs.microsoft.com/en-us/azure/virtual-network/ip-services/public-ip-address-prefix)
+* [Manage a public IP address prefix](https://docs.microsoft.com/en-us/azure/virtual-network/ip-services/manage-public-ip-address-prefix)
+* [Create a public IP address prefix using the Azure portal](https://docs.microsoft.com/en-us/azure/virtual-network/ip-services/create-public-ip-prefix-portal)
+
 #### 6.3. Associate a Virtual Network NAT with a subnet
+* [Create a NAT gateway using the Azure portal](https://docs.microsoft.com/en-us/azure/virtual-network/nat-gateway/tutorial-create-nat-gateway-portal)
+* [Configuration issues with subnets and virtual networks using NAT gateway](https://docs.microsoft.com/en-us/azure/virtual-network/nat-gateway/troubleshoot-nat#configuration-issues-with-subnets-and-virtual-networks-using-nat-gateway)
+* [VNet NAT basics](https://docs.microsoft.com/en-us/azure/virtual-network/nat-gateway/nat-overview#vnet-nat-basics)
 
 ---
 
