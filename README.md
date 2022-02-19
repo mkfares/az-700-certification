@@ -268,13 +268,33 @@ This exam study guide is based on the update of November 23, 2021.
 ---
 
 ### 2. Design and implement an Azure Load Balancer
+* [What is Azure Load Balancer?](https://docs.microsoft.com/en-us/azure/load-balancer/load-balancer-overview)
+* [Azure Load Balancer components](https://docs.microsoft.com/en-us/azure/load-balancer/components)
+* [Load Balancer FAQs](https://docs.microsoft.com/en-us/azure/load-balancer/load-balancer-faqs)
 
 #### 2.1. Choose an Azure Load Balancer SKU (Basic versus Standard)
+* [Azure Load Balancer SKUs](https://docs.microsoft.com/en-us/azure/load-balancer/skus)
+
 #### 2.2. Choose between public and internal
+* [What is Azure Load Balancer?](https://docs.microsoft.com/en-us/azure/load-balancer/load-balancer-overview)
+
 #### 2.3. Create and configure an Azure Load Balancer (including cross-region)
+* [Azure Load Balancer portal settings](https://docs.microsoft.com/en-us/azure/load-balancer/manage)
+* [Create a public load balancer to load balance VMs using the Azure portal](https://docs.microsoft.com/en-us/azure/load-balancer/quickstart-load-balancer-standard-public-portal)
+* [Create an internal load balancer to load balance VMs using the Azure portal](https://docs.microsoft.com/en-us/azure/load-balancer/quickstart-load-balancer-standard-internal-portal)
+* [Create a cross-region Azure Load Balancer using the Azure portal](https://docs.microsoft.com/en-us/azure/load-balancer/tutorial-cross-region-portal)
+
 #### 2.4. Implement a load balancing rule
+* [Load Balancer rules](https://docs.microsoft.com/en-us/azure/load-balancer/components#load-balancer-rules)
+* [Load-balancing rules](https://docs.microsoft.com/en-us/azure/load-balancer/manage-rules-how-to#load-balancing-rules)
+* [Manage rules for Azure Load Balancer using the Azure portal](https://docs.microsoft.com/en-us/azure/load-balancer/manage-rules-how-to)
+
 #### 2.5. Create and configure inbound NAT rules
+* [Configure port forwarding in Azure Load Balancer using the Azure portal](https://docs.microsoft.com/en-us/azure/load-balancer/tutorial-load-balancer-port-forwarding-portal)
+
 #### 2.6. Create explicit outbound rules for a load balancer
+* [Outbound rules Azure Load Balancer](https://docs.microsoft.com/en-us/azure/load-balancer/outbound-rules)
+* [Outbound-only load balancer configuration](https://docs.microsoft.com/en-us/azure/load-balancer/egress-only)
 
 ---
 
