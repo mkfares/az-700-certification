@@ -342,13 +342,39 @@ This exam study guide is based on the update of November 23, 2021.
 ---
 
 ### 4. Implement Azure Front Door
+* [What is Azure Front Door?](https://docs.microsoft.com/en-us/azure/frontdoor/front-door-overview)
+* [Azure Front Door FAQs](https://docs.microsoft.com/en-us/azure/frontdoor/front-door-faq)
 
 #### 4.1. Choose an Azure Front Door SKU
+* [What is Azure Front Door Standard/Premium](https://docs.microsoft.com/en-us/azure/frontdoor/standard-premium/overview)
+* [Overview of Azure Front Door Standard/Premium SKU](https://docs.microsoft.com/en-us/azure/frontdoor/standard-premium/tier-comparison)
+
 #### 4.2. Configure health probes, including customization of HTTP response codes
+* [Health probes](https://docs.microsoft.com/en-us/azure/frontdoor/front-door-health-probes)
+* [Create an Azure Front Door Standard/Premium profile - Health Probes](https://docs.microsoft.com/en-us/azure/frontdoor/standard-premium/create-front-door-portal#create-a-front-door-standardpremium-preview-for-your-application)
+
 #### 4.3. Configure SSL termination and end-to-end SSL encryption
+* [End-to-end TLS with Azure Front Door](https://docs.microsoft.com/en-us/azure/frontdoor/concept-end-to-end-tls)
+* [Configure HTTPS on a Front Door custom domain](https://docs.microsoft.com/en-us/azure/frontdoor/front-door-custom-domain-https)
+* [Configure HTTPS on a Front Door Standard/Premium SKU custom domain using the Azure portal](https://docs.microsoft.com/en-us/azure/frontdoor/standard-premium/how-to-configure-https-custom-domain)
+
 #### 4.4. Configure multisite listeners
+* [Application Gateway listener configuration - Listener type](https://docs.microsoft.com/en-us/azure/application-gateway/configuration-listeners#listener-type)
+* [Application Gateway multiple site hosting](https://docs.microsoft.com/en-us/azure/application-gateway/multiple-site-overview)
+* [Create and configure an application gateway to host multiple web sites using the Azure portal](https://docs.microsoft.com/en-us/azure/application-gateway/create-multiple-sites-portal)
+
 #### 4.5. Configure back-end targets
+* [Backends and backend pools in Azure Front Door](https://docs.microsoft.com/en-us/azure/frontdoor/front-door-backend-pool)
+* [Create a Front Door for a highly available global web application - Create a Front Door for your application](https://docs.microsoft.com/en-us/azure/frontdoor/quickstart-create-front-door#create-a-front-door-for-your-application)
+
 #### 4.6. Configure routing rules, including redirection rules
+* [Routing architecture overview](https://docs.microsoft.com/en-us/azure/frontdoor/front-door-routing-architecture)
+* [How requests are matched to a routing rule](https://docs.microsoft.com/en-us/azure/frontdoor/front-door-route-matching)
+* [Front Door routing methods](https://docs.microsoft.com/en-us/azure/frontdoor/front-door-routing-methods)
+* [URL redirect](https://docs.microsoft.com/en-us/azure/frontdoor/front-door-url-redirect)
+* [Create a Front Door with HTTP to HTTPS redirection using the Azure portal](https://docs.microsoft.com/en-us/azure/frontdoor/front-door-how-to-redirect-https)
+* [Configure an Azure Front Door Standard/Premium Route](https://docs.microsoft.com/en-us/azure/frontdoor/standard-premium/how-to-configure-route)
+* [URL redirect and URL rewrite with Azure Front Door Standard/Premium](https://docs.microsoft.com/en-us/azure/frontdoor/standard-premium/concept-rule-set-url-redirect-and-rewrite)
 
 ---
 
