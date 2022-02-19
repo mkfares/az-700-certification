@@ -299,16 +299,45 @@ This exam study guide is based on the update of November 23, 2021.
 ---
 
 ### 3. Design and implement Azure Application Gateway
+* [What is Azure Application Gateway?](https://docs.microsoft.com/en-us/azure/application-gateway/overview)
+* [Application Gateway FAQs](https://docs.microsoft.com/en-us/azure/application-gateway/application-gateway-faq)
 
 #### 3.1. Recommend Azure Application Gateway deployment options
+* [Application Gateway configuration overview](https://docs.microsoft.com/en-us/azure/application-gateway/configuration-overview)
+* [Azure Application Gateway features](https://docs.microsoft.com/en-us/azure/application-gateway/features)
+* [How an application gateway works](https://docs.microsoft.com/en-us/azure/application-gateway/how-application-gateway-works)
+
 #### 3.2. Choose between manual and autoscale
+* [Scaling Application Gateway v2 and WAF v2](https://docs.microsoft.com/en-us/azure/application-gateway/application-gateway-autoscaling-zone-redundant)
+* [Create Application Gateway - Basics](https://docs.microsoft.com/en-us/azure/application-gateway/quick-create-portal#basics-tab)
+* [Create an application gateway that improves web application access](https://docs.microsoft.com/en-us/azure/application-gateway/tutorial-autoscale-ps)
+
 #### 3.3. Create a back-end pool
+* [Application gateway components - Backend pools](https://docs.microsoft.com/en-us/azure/application-gateway/application-gateway-components#backend-pools)
+* [Application Gateway configuration overview - Back-end pool](https://docs.microsoft.com/en-us/azure/application-gateway/configuration-overview#back-end-pool)
+* [Create Application Gateway - Add backend targets](https://docs.microsoft.com/en-us/azure/application-gateway/quick-create-portal#add-backend-targets)
+
 #### 3.4. Configure health probes
+* [Application Gateway health monitoring overview](https://docs.microsoft.com/en-us/azure/application-gateway/application-gateway-probe-overview)
+* [Create a custom probe for Application Gateway by using the portal](https://docs.microsoft.com/en-us/azure/application-gateway/application-gateway-create-probe-portal)
+
 #### 3.5. Configure listeners
+* [Application Gateway listener configuration](https://docs.microsoft.com/en-us/azure/application-gateway/configuration-listeners)
+
 #### 3.6. Configure routing rules
+* [Application Gateway request routing rules](https://docs.microsoft.com/en-us/azure/application-gateway/configuration-request-routing-rules)
+
 #### 3.7. Configure HTTP settings
+* [Application Gateway HTTP settings configuration](https://docs.microsoft.com/en-us/azure/application-gateway/configuration-http-settings)
+
 #### 3.8. Configure Transport Layer Security (TLS)
+* [Overview of TLS termination and end to end TLS with Application Gateway](https://docs.microsoft.com/en-us/azure/application-gateway/ssl-overview)
+* [Configure an application gateway with TLS termination using the Azure portal](https://docs.microsoft.com/en-us/azure/application-gateway/create-ssl-portal)
+
 #### 3.9. Configure rewrite sets
+* [Rewrite HTTP headers and URL with Application Gateway](https://docs.microsoft.com/en-us/azure/application-gateway/rewrite-http-headers-url)
+* [Rewrite HTTP request and response headers with Azure Application Gateway - Azure portal](https://docs.microsoft.com/en-us/azure/application-gateway/rewrite-http-headers-portal)
+* [Rewrite URL with Azure Application Gateway - Azure portal](https://docs.microsoft.com/en-us/azure/application-gateway/rewrite-url-portal)
 
 ---
 
