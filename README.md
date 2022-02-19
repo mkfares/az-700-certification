@@ -379,10 +379,26 @@ This exam study guide is based on the update of November 23, 2021.
 ---
 
 ### 5. Implement an Azure Traffic Manager profile
+* [What is Traffic Manager?](https://docs.microsoft.com/en-us/azure/traffic-manager/traffic-manager-overview)
+* [How Traffic Manager Works](https://docs.microsoft.com/en-us/azure/traffic-manager/traffic-manager-how-it-works)
+* [Traffic Manager FAQs](https://docs.microsoft.com/en-us/azure/traffic-manager/traffic-manager-faqs)
 
 #### 5.1. Configure a routing method (mode)
+* [Traffic Manager routing methods](https://docs.microsoft.com/en-us/azure/traffic-manager/traffic-manager-routing-methods)
+* [Nested Traffic Manager profiles](https://docs.microsoft.com/en-us/azure/traffic-manager/traffic-manager-nested-profiles)
+* [Traffic Manager - Performance (Low latency) traffic routing method](https://docs.microsoft.com/en-us/azure/traffic-manager/traffic-manager-configure-performance-routing-method)
+* [Traffic Manager - Geographic traffic routing method](https://docs.microsoft.com/en-us/azure/traffic-manager/traffic-manager-configure-geographic-routing-method)
+* [Traffic Manager - Priority traffic routing method](https://docs.microsoft.com/en-us/azure/traffic-manager/traffic-manager-configure-priority-routing-method)
+* [Traffic Manager - Weighted endpoint routing method](https://docs.microsoft.com/en-us/azure/traffic-manager/tutorial-traffic-manager-weighted-endpoint-routing)
+* [Traffic Manager - Subnet routing method](https://docs.microsoft.com/en-us/azure/traffic-manager/tutorial-traffic-manager-subnet-routing)
+
 #### 5.2. Configure endpoints
+* [Traffic Manager endpoints](https://docs.microsoft.com/en-us/azure/traffic-manager/traffic-manager-endpoint-types)
+* [Manage endpoints](https://docs.microsoft.com/en-us/azure/traffic-manager/traffic-manager-manage-endpoints)
+* [Create Traffic Manager profile - Add Traffic Manager endpoints](https://docs.microsoft.com/en-us/azure/traffic-manager/quickstart-create-traffic-manager-profile#add-traffic-manager-endpoints)
+
 #### 5.3. Create HTTP settings
+* [Traffic Manager endpoint monitoring](https://docs.microsoft.com/en-us/azure/traffic-manager/traffic-manager-monitoring)
 
 ---
 
