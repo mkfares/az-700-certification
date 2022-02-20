@@ -531,13 +531,36 @@ This exam study guide is based on the update of November 23, 2021.
 ---
 
 ###  4. Monitor networks
+* [Network monitoring solutions](https://docs.microsoft.com/en-us/azure/networking/network-monitoring-overview)
+* [Monitoring Azure virtual network](https://docs.microsoft.com/en-us/azure/virtual-network/monitor-virtual-network)
 
 #### 4.1. Configure network health alerts and logging by using Azure Monitor
+* [Azure Monitor Network Insights](https://docs.microsoft.com/en-us/azure/azure-monitor/insights/network-insights-overview)
+* [Create, view, and manage metric alerts using Azure Monitor](https://docs.microsoft.com/en-us/azure/azure-monitor/alerts/alerts-metric)
+* [Create, view, and manage log alerts using Azure Monitor](https://docs.microsoft.com/en-us/azure/azure-monitor/alerts/alerts-log)
+* [Create, view, and manage activity log alerts by using Azure Monitor](https://docs.microsoft.com/en-us/azure/azure-monitor/alerts/alerts-activity-log)
+
 #### 4.2. Create and configure a Connection Monitor instance
+* [Monitor network connectivity by using Connection Monitor](https://docs.microsoft.com/en-us/azure/network-watcher/connection-monitor-overview)
+* [Create a monitor in Connection Monitor by using the Azure portal](https://docs.microsoft.com/en-us/azure/network-watcher/connection-monitor-create-using-portal)
+* [Monitor network communication between two virtual machines using the Azure portal](https://docs.microsoft.com/en-us/azure/network-watcher/connection-monitor)
+
 #### 4.3. Configure and use Traffic Analytics
+* [Traffic Analytics](https://docs.microsoft.com/en-us/azure/network-watcher/traffic-analytics)
+* [Traffic Analytics FAQs](https://docs.microsoft.com/en-us/azure/network-watcher/traffic-analytics-faq)
+* [Deploy and manage Traffic Analytics using Azure Policy](https://docs.microsoft.com/en-us/azure/network-watcher/traffic-analytics-policy-portal)
+
 #### 4.4. Configure NSG flow logs
+* [Introduction to flow logging for network security groups](https://docs.microsoft.com/en-us/azure/network-watcher/network-watcher-nsg-flow-logging-overview)
+* [Enable NSG flow log](https://docs.microsoft.com/en-us/azure/network-watcher/network-watcher-nsg-flow-logging-portal#enable-nsg-flow-log)
+
 #### 4.5. Enable and configure diagnostic logging
+* [Overview of Azure platform logs](https://docs.microsoft.com/en-us/azure/azure-monitor/essentials/platform-logs-overview)
+* [Create diagnostic settings to send Azure Monitor platform logs and metrics to different destinations](https://docs.microsoft.com/en-us/azure/azure-monitor/essentials/diagnostic-settings)
+
 #### 4.6. Configure Azure Network Watcher
+* [What is Azure Network Watcher?](https://docs.microsoft.com/en-us/azure/network-watcher/network-watcher-monitoring-overview)
+* [Create an Azure Network Watcher instance](https://docs.microsoft.com/en-us/azure/network-watcher/network-watcher-create)
 
 ---
 
