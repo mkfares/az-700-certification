@@ -569,11 +569,29 @@ This exam study guide is based on the update of November 23, 2021.
 ###  1. Design and implement Azure Private Link service and Azure Private Endpoint
 
 #### 1.1. Create a Private Link service
+* [What is Azure Private Link service?](https://docs.microsoft.com/en-us/azure/private-link/private-link-service-overview)
+* [Create a Private Link service by using the Azure portal](https://docs.microsoft.com/en-us/azure/private-link/create-private-link-service-portal)
+* [Private Link FAQs](https://docs.microsoft.com/en-us/azure/private-link/private-link-faq#private-link)
+
 #### 1.2. Plan private endpoints
+* [What is a private endpoint?](https://docs.microsoft.com/en-us/azure/private-link/private-endpoint-overview)
+
 #### 1.3. Create private endpoints
+* [Create a private endpoint by using the Azure portal](https://docs.microsoft.com/en-us/azure/private-link/create-private-endpoint-portal)
+* [Manage a Private Endpoint connection](https://docs.microsoft.com/en-us/azure/private-link/manage-private-endpoint)
+
 #### 1.4. Configure access to private endpoints
+* [Network security of private endpoints](https://docs.microsoft.com/en-us/azure/private-link/private-endpoint-overview#network-security-of-private-endpoints)
+* [Manage network policies for private endpoints](https://docs.microsoft.com/en-us/azure/private-link/disable-private-endpoint-network-policy)
+* [Connect to a storage account using an Azure Private Endpoint](https://docs.microsoft.com/en-us/azure/private-link/tutorial-private-endpoint-storage-portal)
+* [Connect to a web app using an Azure Private Endpoint](https://docs.microsoft.com/en-us/azure/private-link/tutorial-private-endpoint-webapp-portal)
+
 #### 1.5. Integrate Private Link with DNS
+* [Azure Private Endpoint DNS configuration](https://docs.microsoft.com/en-us/azure/private-link/private-endpoint-dns)
+* [Private Link and DNS integration at scale](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/private-link-and-dns-integration-at-scale)
+
 #### 1.6. Integrate a Private Link service with on-premises clients
+* [What is Azure Private Link service? - Private Link](https://docs.microsoft.com/en-us/azure/private-link/private-link-service-overview#details)
 
 ---
 
