@@ -499,21 +499,34 @@ This exam study guide is based on the update of November 23, 2021.
 ---
 
 ### 3. Implement a Web Application Firewall (WAF) deployment
+* [What is Azure Web Application Firewall?](https://docs.microsoft.com/en-us/azure/web-application-firewall/overview)
 
 #### 3.1. Configure detection or prevention mode
-
+* [Web Application Firewall modes](https://docs.microsoft.com/en-us/azure/web-application-firewall/ag/ag-overview?WT.mc_id=modinfra-33046-thmaure#waf-modes)
+* [Configure Web Application Firewall](https://docs.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-create-portal#configure-web-application-firewall-rules-optional)
 
 #### 3.2. Configure rule sets for Azure Front Door, including Microsoft managed and user defined
-
+* [Web Application Firewall DRS rule groups and rules](https://docs.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-drs)
+* [Custom rules for Web Application Firewall with Azure Front Door](https://docs.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-custom-rules)
+* [Configure a Web Application Firewall policy using Azure PowerShell](https://docs.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-custom-rules-powershell)
 
 #### 3.3. Configure rule sets for Application Gateway, including Microsoft managed and user defined
-
+* [Web Application Firewall CRS rule groups and rules](https://docs.microsoft.com/en-us/azure/web-application-firewall/ag/application-gateway-crs-rulegroups-rules)
+* [Custom rules for Web Application Firewall v2 on Azure Application Gateway](https://docs.microsoft.com/en-us/azure/web-application-firewall/ag/custom-waf-rules-overview)
+* [Geomatch custom rules](https://docs.microsoft.com/en-us/azure/web-application-firewall/ag/geomatch-custom-rules)
+* [Configure WAF rules])https://docs.microsoft.com/en-us/azure/web-application-firewall/ag/create-waf-policy-ag#configure-waf-rules-optional)
+* [Customize Web Application Firewall rules using the Azure portal](https://docs.microsoft.com/en-us/azure/web-application-firewall/ag/application-gateway-customize-waf-rules-portal)
+* [Create and use Web Application Firewall v2 custom rules on Application Gateway](https://docs.microsoft.com/en-us/azure/web-application-firewall/ag/create-custom-waf-rules)
 
 #### 3.4. Implement a WAF policy
-
+* [Create Web Application Firewall policies for Application Gateway](https://docs.microsoft.com/en-us/azure/web-application-firewall/ag/create-waf-policy-ag)
+* [Create an application gateway with a Web Application Firewall using the Azure portal](https://docs.microsoft.com/en-us/azure/web-application-firewall/ag/application-gateway-web-application-firewall-portal)
+* [Create a Web Application Firewall policy on Azure Front Door using the Azure portal](https://docs.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-create-portal)
+* [Configure a Web Application Firewall policy using Azure PowerShell for Front Door](https://docs.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-custom-rules-powershell)
 
 #### 3.5. Associate a WAF policy
-
+* [Associate a WAF policy with an existing Application Gateway](https://docs.microsoft.com/en-us/azure/web-application-firewall/ag/associate-waf-policy-existing-gateway)
+* [Create a Web Application Firewall policy on Azure Front Door using the Azure portal](https://docs.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-create-portal#create-a-web-application-firewall-policy)
 
 ---
 
