@@ -459,25 +459,61 @@ This exam study guide is based on the update of November 23, 2021.
 ---
 
 ### 2. Implement and manage network security groups (NSGs)
+* [Network security groups](https://docs.microsoft.com/en-us/azure/virtual-network/network-security-groups-overview)
+* [How network security groups filter network traffic](https://docs.microsoft.com/en-us/azure/virtual-network/network-security-group-how-it-works)
 
 #### 2.1. Create an NSG
+* [Create, change, or delete a network security group](https://docs.microsoft.com/en-us/azure/virtual-network/manage-network-security-group)
+
 #### 2.2. Associate an NSG to a resource
+* [Associate or dissociate a network security group - NIC](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-network-interface#associate-or-dissociate-a-network-security-group)
+* [Associate or dissociate a network security group - Subnet](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-manage-subnet#change-subnet-settings)
+* [Associate network security group to subnet](https://docs.microsoft.com/en-us/azure/virtual-network/tutorial-filter-network-traffic#associate-network-security-group-to-subnet)
+
 #### 2.3. Create an application security group (ASG)
+* [Application security groups](https://docs.microsoft.com/en-us/azure/virtual-network/application-security-groups)
+* [Create application security groups](https://docs.microsoft.com/en-us/azure/virtual-network/tutorial-filter-network-traffic#create-application-security-groups)
+
 #### 2.4. Associate an ASG to a NIC
+* [Associate network interfaces to an ASG](https://docs.microsoft.com/en-us/azure/virtual-network/tutorial-filter-network-traffic#associate-network-interfaces-to-an-asg)
+
 #### 2.5. Create and configure NSG rules
+* [Security rules](https://docs.microsoft.com/en-us/azure/virtual-network/network-security-groups-overview#security-rules)
+* [Create security rules](https://docs.microsoft.com/en-us/azure/virtual-network/tutorial-filter-network-traffic#create-security-rules)
+* [Work with security rules](https://docs.microsoft.com/en-us/azure/virtual-network/manage-network-security-group#work-with-security-rules)
+
 #### 2.6. Interpret NSG flow logs
+* [Introduction to flow logging for network security groups](https://docs.microsoft.com/en-us/azure/network-watcher/network-watcher-nsg-flow-logging-overview)
+* [Network Watcher - Enable NSG flow log](https://docs.microsoft.com/en-us/azure/network-watcher/network-watcher-nsg-flow-logging-portal#enable-nsg-flow-log)
+* [Traffic Analytics - Enable flow log settings](https://docs.microsoft.com/en-us/azure/network-watcher/traffic-analytics)
+* [Visualizing Network Security Group flow logs with Power BI](https://docs.microsoft.com/en-us/azure/network-watcher/network-watcher-visualize-nsg-flow-logs-power-bi)
+
 #### 2.7. Validate NSG flow rules
+* [Introduction to flow logging for network security groups](https://docs.microsoft.com/en-us/azure/network-watcher/network-watcher-nsg-flow-logging-overview)
+* [Diagnose a virtual machine network traffic filter problem](https://docs.microsoft.com/en-us/azure/virtual-network/diagnose-network-traffic-filter-problem)
+
 #### 2.8. Verify IP flow
+* [Introduction to IP flow verify in Azure Network Watcher](https://docs.microsoft.com/en-us/azure/network-watcher/network-watcher-ip-flow-verify-overview)
+* [Diagnose a virtual machine network traffic filter problem using the Azure portal](https://docs.microsoft.com/en-us/azure/network-watcher/diagnose-vm-network-traffic-filtering-problem)
 
 ---
 
 ### 3. Implement a Web Application Firewall (WAF) deployment
 
 #### 3.1. Configure detection or prevention mode
+
+
 #### 3.2. Configure rule sets for Azure Front Door, including Microsoft managed and user defined
+
+
 #### 3.3. Configure rule sets for Application Gateway, including Microsoft managed and user defined
+
+
 #### 3.4. Implement a WAF policy
+
+
 #### 3.5. Associate a WAF policy
+
 
 ---
 
