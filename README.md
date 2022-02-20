@@ -428,11 +428,33 @@ This exam study guide is based on the update of November 23, 2021.
 ### 1. Design, implement, and manage an Azure Firewall deployment
 
 #### 1.1. Design an Azure Firewall deployment
+* [What is Azure Firewall?](https://docs.microsoft.com/en-us/azure/firewall/overview)
+* [Azure Firewall Standard features](https://docs.microsoft.com/en-us/azure/firewall/features)
+* [Azure Firewall Premium features](https://docs.microsoft.com/en-us/azure/firewall/premium-features)
+
 #### 1.2. Create and implement an Azure Firewall deployment
+* [Deploy and configure Azure Firewall and policy using the Azure portal](https://docs.microsoft.com/en-us/azure/firewall/tutorial-firewall-deploy-portal-policy)
+* [Deploy Azure Firewall Premium using the Azure portal](https://docs.microsoft.com/en-us/azure/firewall/premium-portal)
+
 #### 1.3. Configure Azure Firewall rules
+* [Configure Azure Firewall rules](https://docs.microsoft.com/en-us/azure/firewall/rule-processing)
+* [Deploy and configure Azure Firewall using the Azure portal - Configure Firewall rules](https://docs.microsoft.com/en-us/azure/firewall/tutorial-firewall-deploy-portal#configure-an-application-rule)
+* [FQDN filtering in network rules](https://docs.microsoft.com/en-us/azure/firewall-manager/fqdn-filtering-network-rules)
+
 #### 1.4. Create and implement Azure Firewall Manager policies
+* [What is Azure Firewall Manager?](https://docs.microsoft.com/en-us/azure/firewall-manager/overview)
+* [Azure Firewall Manager policy overview](https://docs.microsoft.com/en-us/azure/firewall-manager/policy-overview)
+* [Create and update an Azure Firewall policy using Azure PowerShell](https://docs.microsoft.com/en-us/azure/firewall-manager/create-policy-powershell)
+
 #### 1.5. Create a secure hub by deploying Azure Firewall inside an Azure Virtual WAN hub
+* [What is a secured virtual hub?](https://docs.microsoft.com/en-us/azure/firewall-manager/secured-virtual-hub)
+* [Azure Firewall Manager deployment overview](https://docs.microsoft.com/en-us/azure/firewall-manager/deployment-overview)
+* [What are the Azure Firewall Manager architecture options?](https://docs.microsoft.com/en-us/azure/firewall-manager/vhubs-and-vnets)
+* [Secure your virtual hub using Azure Firewall Manager](https://docs.microsoft.com/en-us/azure/firewall-manager/secure-cloud-network)
+
 #### 1.6. Integrate an Azure Virtual WAN hub with a third-party NVA
+* [Network Virtual Appliances in the Virtual WAN hub](https://docs.microsoft.com/en-us/azure/virtual-wan/about-nva-hub)
+* [Route traffic through an NVA](https://docs.microsoft.com/en-us/azure/virtual-wan/scenario-route-through-nva)
 
 ---
 
