@@ -596,16 +596,35 @@ This exam study guide is based on the update of November 23, 2021.
 ---
 
 ### 2. Design and implement service endpoints
+* [Virtual Network service endpoints](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-service-endpoints-overview)
+* [Virtual network service endpoints - FAQs](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-faq#virtual-network-service-endpoints)
 
 #### 2.1. Create service endpoints
+* [Enable a service endpoint](https://docs.microsoft.com/en-us/azure/virtual-network/tutorial-restrict-network-access-to-resources#enable-a-service-endpoint)
+
 #### 2.2. Configure service endpoint policies
+* [Virtual network service endpoint policies](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-service-endpoint-policies-overview)
+* [Create, change, or delete service endpoint policy using the Azure portal](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-service-endpoint-policies-portal)
+
 #### 2.3. Configure service tags
+* [Virtual network service tags](https://docs.microsoft.com/en-us/azure/virtual-network/service-tags-overview)
+
 #### 2.4. Configure access to service endpoints
+* [Virtual Network service endpoints](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-service-endpoints-overview)
+* [Restrict network access to PaaS resources with virtual network service endpoints using the Azure portal](https://docs.microsoft.com/en-us/azure/virtual-network/tutorial-restrict-network-access-to-resources)
 
 ---
 
 ### 3. Configure VNet integration for dedicated platform as a service (PaaS) services
 
 #### 3.1. Configure App Service for regional VNet integration
+* [Integrate your app with an Azure virtual network](https://docs.microsoft.com/en-us/azure/app-service/overview-vnet-integration)
+* [Enable virtual network integration in Azure App Service](https://docs.microsoft.com/en-us/azure/app-service/configure-vnet-integration-enable)
+* [Manage Azure App Service virtual network integration routing](https://docs.microsoft.com/en-us/azure/app-service/configure-vnet-integration-routing)
+
 #### 3.2. Configure Azure Kubernetes Service (AKS) for regional VNet integration
+* [Create a private Azure Kubernetes Service cluster](https://docs.microsoft.com/en-us/azure/aks/private-clusters)
+
 #### 3.3. Configure clients to access App Service Environment
+* [App Service Environment overview](https://docs.microsoft.com/en-us/azure/app-service/environment/overview)
+* [App Service Environment networking](https://docs.microsoft.com/en-us/azure/app-service/environment/networking)
