@@ -1,6 +1,9 @@
 # AZ-700: Designing and Implementing Microsoft Azure Networking Solutions - Exam Study Guide
 This exam study guide is based on the update of November 23, 2021.
 
+[//]: # (Title: AZ-700 Exam Study Guide)
+[//]: # (Description: AZ-700 Designing and Implementing Microsoft Azure Networking Solutions Exam Study Guide)
+[//]: # (Keywords: AZ-700, AZ 700, Network, Azure, Cloud, Certification, Exam Study Guide)
 ---
 
 ## A. Design, implement, and manage hybrid networking (10-15%)
