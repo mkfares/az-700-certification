@@ -1,4 +1,4 @@
-# AZ-700 Exercises
+# AZ-700 Microsft Learn Exercises
 
 These exercises are from [AZ-700 Microsoft Learn](https://docs.microsoft.com/en-us/learn/paths/design-implement-microsoft-azure-networking-solutions-az-700/)
 
